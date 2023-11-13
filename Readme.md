@@ -1,6 +1,6 @@
 <h1>Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
-<p>Welcome to my page! </br> I'm Shyam 😀, Lead Data Scientist from <img src="https://cdn.pixabay.com/photo/2012/04/10/23/03/india-26828_960_720.png" width="13"/> <b>TamilNadu, India</b>, currently living in <img src="https://cdn.pixabay.com/photo/2012/04/23/16/18/flag-38776_960_720.png" width="13"/> <b>Toronto, Canada</b>. </p>
+<p>Welcome to my page! </br> I'm Shyam 😀, Lead Data Scientist from <img src="https://cdn.pixabay.com/photo/2012/04/10/23/03/india-26828_960_720.png" width="13"/> <b>India</b>, currently living in <img src="https://cdn.pixabay.com/photo/2012/04/23/16/18/flag-38776_960_720.png" width="13"/> <b>Toronto, Canada</b>. </p>
 
 <h3>Technologies and Interests</h3>
 
