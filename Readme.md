@@ -82,11 +82,6 @@ class ShyamPrasath:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyam1326&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam1326&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&langs_count=8" alt="top langs"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=shyam1326&theme=tokyonight&hide_border=true&background=0D1117&ring=2c9af2&fire=2c9af2&currStreakLabel=2c9af2" alt="streak"/>
 
 </div>
