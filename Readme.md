@@ -105,23 +105,6 @@ class ShyamPrasath:
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/shyam1326/autopilotml">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyam1326&repo=autopilotml&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="autopilotml"/>
-</a>
-<a href="https://github.com/shyam1326/DVC_ML_AI-ops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyam1326&repo=DVC_ML_AI-ops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="DVC_ML_AI-ops"/>
-</a>
-<a href="https://github.com/shyam1326/detectron-2_segmentation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyam1326&repo=detectron-2_segmentation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="detectron"/>
-</a>
-<a href="https://github.com/shyam1326/Image_scrapper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyam1326&repo=Image_scrapper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="image scrapper"/>
-</a>
-
-</div>
-
 | Project | What it does |
 | :--- | :--- |
 | **[autopilotml](https://github.com/shyam1326/autopilotml)** | An AutoML library to train, tune, and evaluate ML models end-to-end with minimal code. |
