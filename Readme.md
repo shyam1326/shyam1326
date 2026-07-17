@@ -14,6 +14,8 @@
 <a href="https://www.instagram.com/_shyam_fit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=shyam1326&label=Profile%20views&color=2c9af2&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-2c9af2?style=flat" alt="focus"/>
+<img src="https://img.shields.io/badge/Based%20in-Toronto%2C%20Canada-2c9af2?style=flat" alt="location"/>
 
 </div>
 
@@ -85,7 +87,7 @@ class ShyamPrasath:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam1326&theme=tokyonight&hide_border=true&background=0D1117&ring=2c9af2&fire=2c9af2&currStreakLabel=2c9af2" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=shyam1326&theme=tokyonight&hide_border=true&background=0D1117&ring=2c9af2&fire=2c9af2&currStreakLabel=2c9af2" alt="streak"/>
 
 </div>
 
@@ -120,6 +122,13 @@ class ShyamPrasath:
 
 </div>
 
+| Project | What it does |
+| :--- | :--- |
+| **[autopilotml](https://github.com/shyam1326/autopilotml)** | An AutoML library to train, tune, and evaluate ML models end-to-end with minimal code. |
+| **[DVC_ML_AI-ops](https://github.com/shyam1326/DVC_ML_AI-ops)** | Reproducible ML pipelines with DVC — data versioning, experiment tracking, and automation. |
+| **[detectron-2_segmentation](https://github.com/shyam1326/detectron-2_segmentation)** | Instance/semantic segmentation built on Detectron2 for computer-vision workloads. |
+| **[Image_scrapper](https://github.com/shyam1326/Image_scrapper)** | Utility to scrape and collect image datasets for training vision models. |
+
 ---
 
 ## 📈 Contribution Graph
@@ -127,6 +136,14 @@ class ShyamPrasath:
 <div align="center">
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shyam1326&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2c9af2&line=2c9af2&point=ffffff)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam1326/shyam1326/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam1326/shyam1326/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/shyam1326/shyam1326/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
