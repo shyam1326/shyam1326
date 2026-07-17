@@ -93,16 +93,6 @@ class ShyamPrasath:
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![trophies](https://github-profile-trophy.vercel.app/?username=shyam1326&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
-
-</div>
-
----
-
 ## 📌 Featured Projects
 
 | Project | What it does |
