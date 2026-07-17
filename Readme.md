@@ -1,63 +1,141 @@
-<h1>Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Nice to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
+<!-- ==================== HEADER ==================== -->
+<a href="https://github.com/shyam1326">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shyam%20Prasath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Data%20Scientist%20%7C%20ML%20%C2%B7%20Deep%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20NLP&descAlignY=58&descSize=18" width="100%" alt="header"/>
+</a>
 
-<p>Welcome to my page! </br> I'm Shyam 😀, Lead Data Scientist from <img src="https://cdn.pixabay.com/photo/2012/04/10/23/03/india-26828_960_720.png" width="13"/> <b>India</b>, currently living in <img src="https://cdn.pixabay.com/photo/2012/04/23/16/18/flag-38776_960_720.png" width="13"/> <b>Toronto, Canada</b>. </p>
+<!-- ==================== TYPING INTRO ==================== -->
+<div align="center">
 
-<h3>Technologies and Interests</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9AF2&center=true&vCenter=true&width=600&lines=Lead+Data+Scientist+%F0%9F%A7%A0;Turning+data+into+decisions;ML+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Building+intelligent+systems+that+scale)](https://git.io/typing-svg)
 
-<p>
-  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-45b8d8?style=flat-square&logoColor=white" />
-  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-8DD6F9?style=flat-square&logo=deeplearning&logoColor=white" /> 
-  <img alt="Data Science" src="https://img.shields.io/badge/-DataScience-46a2f1?style=flat-square&logo=DataScience&logoColor=white" />
-  <img alt="Computer vision" src="https://img.shields.io/badge/-Computer%20vision-46a2f1?style=flat-square&logo=Computer%20vision&logoColor=white" />
-  <img alt="AI" src="https://img.shields.io/badge/-Artificial%20Intelligence-46a2f1?style=flat-square&logo=Artificial%20Intelligence&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Visualization" src="https://img.shields.io/badge/-Data%20Visualization-46a2f1?style=flat-square&logo=Data%20Visualization&logoColor=white"/>
-  <img alt="Video" src="https://img.shields.io/badge/-Video%20Analytics-46a2f1?style=flat-square&logo=Video%20Analytics&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Audio" src="https://img.shields.io/badge/-Audio%20Analytics-46a2f1?style=flat-square&logo=Audio%20Analytics&logoColor=white" />
-  <img alt="LP" src="https://img.shields.io/badge/-Linear%20Programming-46a2f1?style=flat-square&logo=Linear%20Programming&logoColor=white" />
-  <img alt="DSA" src="https://img.shields.io/badge/-Data%20Structures%20&%20Algorithm-46a2f1?style=flat-square&logo=Data%20Structures&logoColor=white" />
-  <img alt="DB" src="https://img.shields.io/badge/-Database%20Management-46a2f1?style=flat-square&logo=Database%20Management&logoColor=white" />
-  <img alt="RL" src="https://img.shields.io/badge/-Reinforcement%20Learning-46a2f1?style=flat-square&logo=Reinforcement%20Learning&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Bigdata" src="https://img.shields.io/badge/-Bigdata-46a2f1?style=flat-square&logo=Bigdata&logoColor=white" />
-  <img alt="spark" src="https://img.shields.io/badge/-Spark-46a2f1?style=flat-square&logo=spark&logoColor=white" />
-  <img alt="Devops" src="https://img.shields.io/badge/-Devops-46a2f1?style=flat-square&logo=Devops&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="NLP" src="https://img.shields.io/badge/-NLP-46a2f1?style=flat-square&logo=NLP&logoColor=white" />
-</p>
+<a href="https://www.linkedin.com/in/shyamprasath/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.kaggle.com/shyamprasath"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://leetcode.com/shyamprasath/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.instagram.com/_shyam_fit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=shyam1326&label=Profile%20views&color=2c9af2&style=flat" alt="profile views"/>
 
-👉[My Online Portfolio]()
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-### My Hobbies:
+## 👋 About Me
 
-- Coding
-- Exploring New Technologies
-- Traveling and Meet New connections
+```python
+class ShyamPrasath:
+    def __init__(self):
+        self.role      = "Lead Data Scientist"
+        self.location  = "Toronto, Canada 🇨🇦  (originally from India 🇮🇳)"
+        self.focus     = ["Machine Learning", "Deep Learning",
+                          "Computer Vision", "NLP", "MLOps"]
+        self.currently = "Building production ML systems end-to-end"
+        self.hobbies   = ["👨‍💻 coding", "🚀 exploring new tech", "✈️ travel & networking"]
 
-#### You can also find me on:
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something intelligent!")
+```
 
-[<img align="left" alt="shyam | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="shyam | Kaggle" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
-[<img align="left" alt="shyam | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="shyam | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][leetcode]
+- 🔭 I lead data science initiatives spanning the full ML lifecycle — from research to deployment.
+- 🌱 Deep into **Computer Vision** (Detectron2 / segmentation) and **MLOps** (DVC, pipelines, automation).
+- 💡 I enjoy turning ambiguous problems into measurable, deployed models.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shyamprasath/).
 
-<br>
+---
 
-<hr>
+## 🛠️ Tech Stack
 
-[linkedin]: https://www.linkedin.com/in/shyamprasath/
-[kaggle]: https://www.kaggle.com/shyamprasath
-[instagram]: https://www.instagram.com/_shyam_fit/
-[leetcode]: https://leetcode.com/shyamprasath/
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam1326&label=Profile%20views&color=0e75b6&style=flat" alt="shyam" /> </p>
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyam1326&show_icons=true&locale=en&layout=compact" alt="shyam" /></p>
+### ML / Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyam1326&show_icons=true&locale=en" alt="shyam" /></p>
+### MLOps · Data · Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam1326&" alt="shyam" /></p>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyam1326&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam1326&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&langs_count=8" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam1326&theme=tokyonight&hide_border=true&background=0D1117&ring=2c9af2&fire=2c9af2&currStreakLabel=2c9af2" alt="streak"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![trophies](https://github-profile-trophy.vercel.app/?username=shyam1326&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/shyam1326/autopilotml">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyam1326&repo=autopilotml&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="autopilotml"/>
+</a>
+<a href="https://github.com/shyam1326/DVC_ML_AI-ops">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyam1326&repo=DVC_ML_AI-ops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="DVC_ML_AI-ops"/>
+</a>
+<a href="https://github.com/shyam1326/detectron-2_segmentation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyam1326&repo=detectron-2_segmentation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="detectron"/>
+</a>
+<a href="https://github.com/shyam1326/Image_scrapper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyam1326&repo=Image_scrapper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2c9af2&icon_color=2c9af2" alt="image scrapper"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shyam1326&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2c9af2&line=2c9af2&point=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Turning data into decisions, one model at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
