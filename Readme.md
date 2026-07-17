@@ -1,12 +1,12 @@
 <!-- ==================== HEADER ==================== -->
 <a href="https://github.com/shyam1326">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shyam%20Prasath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Data%20Scientist%20%7C%20ML%20%C2%B7%20Deep%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20NLP&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shyam%20Prasath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Principal%20Engineer%20%40%20Xurrent%20%7C%20ML%20%C2%B7%20Deep%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20NLP&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </a>
 
 <!-- ==================== TYPING INTRO ==================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9AF2&center=true&vCenter=true&width=600&lines=Lead+Data+Scientist+%F0%9F%A7%A0;Turning+data+into+decisions;ML+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Building+intelligent+systems+that+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9AF2&center=true&vCenter=true&width=600&lines=Principal+Engineer+%40+Xurrent+%F0%9F%A7%A0;Turning+data+into+decisions;ML+%C2%B7+Deep+Learning+%C2%B7+Computer+Vision;Building+intelligent+systems+that+scale)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/shyamprasath/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.kaggle.com/shyamprasath"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -15,7 +15,7 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=shyam1326&label=Profile%20views&color=2c9af2&style=flat" alt="profile views"/>
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-2c9af2?style=flat" alt="focus"/>
-<img src="https://img.shields.io/badge/Based%20in-Toronto%2C%20Canada-2c9af2?style=flat" alt="location"/>
+<img src="https://img.shields.io/badge/Based%20in-India-2c9af2?style=flat" alt="location"/>
 
 </div>
 
@@ -26,8 +26,8 @@
 ```python
 class ShyamPrasath:
     def __init__(self):
-        self.role      = "Lead Data Scientist"
-        self.location  = "Toronto, Canada 🇨🇦  (originally from India 🇮🇳)"
+        self.role      = "Principal Engineer @ Xurrent"
+        self.location  = "India 🇮🇳"
         self.focus     = ["Machine Learning", "Deep Learning",
                           "Computer Vision", "NLP", "MLOps"]
         self.currently = "Building production ML systems end-to-end"
@@ -37,7 +37,7 @@ class ShyamPrasath:
         print("Thanks for stopping by — let's build something intelligent!")
 ```
 
-- 🔭 I lead data science initiatives spanning the full ML lifecycle — from research to deployment.
+- 🔭 As Principal Engineer at **Xurrent**, I lead ML systems across the full lifecycle — from research to production.
 - 🌱 Deep into **Computer Vision** (Detectron2 / segmentation) and **MLOps** (DVC, pipelines, automation).
 - 💡 I enjoy turning ambiguous problems into measurable, deployed models.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shyamprasath/).
